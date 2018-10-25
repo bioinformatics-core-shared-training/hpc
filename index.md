@@ -1,11 +1,11 @@
 # Hpc Training.  
-### Using the Cambridge Institute&#39;s High Performance Computing Facilites</p>
+### Using the Cambridge Institute&#39;s High Performance Computing Facilites
 
 
 [View the Project on GitHub](https://github.com/bioinformatics-core-shared-training/hpc).   
 
 
-## This brief course will give you three things</p>
+## This brief course will give you three things
 
 1. A refresher on Unix and an introduction to cluster computing
 2. Basic instruction on using our scheduler
