@@ -20,7 +20,7 @@ It won't make you an expert on parallel computing and H.P.C, but will let you ge
 We also have a practical session (on Sections I & II). You are welcome to look at this too, but bear in mind that you will 
 need an account with the CRUK Cambridge Institute for the commands to work.  
 
-* [CRUK Cluster Practical](CRUKClusterPracticalSessions-SLURM.pdf).  
+* [CRUK Cluster Practical](CRUKClusterpracticalsessions(SLURM).pdf).  
 
 ## References.  
 
