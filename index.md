@@ -15,14 +15,14 @@ It won't make you an expert on parallel computing and H.P.C, but will let you ge
 
 [Course Timetable](timetable.md)
 
-* [CRUK Cluster Introduction I](CRUKClusterintroductionI.pdf).  
-* [CRUK Cluster Introduction II](CRUKclusterintroductionII.pdf).  
-* [CRUK Cluster Introduction III](CRUKClusterintroductionIII.pdf).  
+* [CRUK Cluster Introduction I](CRUK-Cluster-introduction-I.pdf).  
+* [CRUK Cluster Introduction II](CRUK-cluster-introduction-II.pdf).  
+* [CRUK Cluster Introduction III](CRUK-Cluster-introduction-III.pdf).  
 <br>
 We also have a practical session (on Sections I & II). You are welcome to look at this too, but bear in mind that you will 
 need an account with the CRUK Cambridge Institute for the commands to work.  
 
-* [CRUK Cluster Practical](CRUKClusterpracticalsessions(SLURM).pdf).  
+* [CRUK Cluster Practical](CRUK-Cluster-practical-sessions-(SLURM).pdf).  
 
 ## References.  
 * [SLURM command Cheatsheet](SLURM-Summary.pdf).  
