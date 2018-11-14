@@ -14,7 +14,7 @@
 It won't make you an expert on parallel computing and H.P.C, but will let you get to work.  
 
 * [CRUK Cluster Introduction I](CRUKClusterintroductionI.pdf).  
-* [CRUK Cluster Introduction II](CRUKClusterintroductionII.pdf).  
+* [CRUK Cluster Introduction II](CRUKclusterintroductionII.pdf).  
 * [CRUK Cluster Introduction III](CRUKClusterintroductionIII.pdf).  
 <br>
 We also have a practical session (on Sections I & II). You are welcome to look at this too, but bear in mind that you will 
