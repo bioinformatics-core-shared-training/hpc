@@ -13,7 +13,7 @@
 
 It won't make you an expert on parallel computing and H.P.C, but will let you get to work.  
 
-<iframe src="https://github.com/bioinformatics-core-shared-training/hpc/blob/master/timetable.md"></iframe>
+[Course Timetable](timetable.md)
 
 * [CRUK Cluster Introduction I](CRUKClusterintroductionI.pdf).  
 * [CRUK Cluster Introduction II](CRUKclusterintroductionII.pdf).  
