@@ -23,7 +23,7 @@ We also have a practical session (on Sections I & II). You are welcome to look a
 need an account with the CRUK Cambridge Institute for the commands to work.  
 
 * [CRUK Cluster Practical](CRUK-Cluster-practical-sessions-(SLURM).pdf).  
-* [CRUK Cluster Practical II]().  
+* [CRUK Cluster Practical II](HPC_practical_II.pdf).  
 
 ## References.  
 * [SLURM command Cheatsheet](SLURM-Summary.pdf).  
