@@ -23,10 +23,10 @@ We also have a practical session (on Sections I & II). You are welcome to look a
 need an account with the CRUK Cambridge Institute for the commands to work.  
 
 * [CRUK Cluster Practical](CRUK-Cluster-practical-sessions-(SLURM).pdf).  
+* [CRUK Cluster Practical II]().  
 
 ## References.  
 * [SLURM command Cheatsheet](SLURM-Summary.pdf).  
-<br>
-<li><a target="_blank" href="https://github.com/bioinformatics-core-shared-training/shell-novice">Our Basic Unix introduction</a></li>
-<li><a target="_blank" href="http://bioinformatics-core-shared-training.github.io/shell-novice/unixref.pdf">Unix 'cheatsheet' of common commands</a></li>
+* [Our Basic Unix introduction](https://github.com/bioinformatics-core-shared-training/shell-novice)
+* [Unix 'cheatsheet' of common commands](http://bioinformatics-core-shared-training.github.io/shell-novice/unixref.pdf)
 
