@@ -6,7 +6,12 @@
 #SBATCH -t 0-2:00 # time (D-HH:MM)
 #SBATCH -o myscript.out # STDOUT
 #SBATCH -e myscript.err # STDERR
+
+
+echo "Generating 100 random numbers"
+
 for i in {1..100}; do
-echo $RANDOM >> SomeRandomNumbers.txt
+  echo $RANDOM >> SomeRandomNumbers2.txt
 done
-sort SomeRandomNumbers.txt
+
+sort SomeRandomnumbers2.txt
