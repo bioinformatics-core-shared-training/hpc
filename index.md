@@ -25,6 +25,11 @@ need an account with the CRUK Cambridge Institute for the commands to work.
 * [CRUK Cluster Practical](CRUK-Cluster-practical-sessions-(SLURM).pdf).  
 * [CRUK Cluster Practical II](HPC_practical_II.pdf).  
 
+## Feedback Survey
+Your feedback comments help us to improve the course. Please fill in [this short form](https://www.surveymonkey.co.uk/r/HPCNov19).    
+_Thank you_
+
+
 ## References.  
 * [SLURM command Cheatsheet](SLURM-Summary.pdf).  
 * [Our Basic Unix introduction](https://github.com/bioinformatics-core-shared-training/shell-novice)
