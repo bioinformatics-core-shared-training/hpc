@@ -1,7 +1,7 @@
 | Time | Activity | Presenter | 
 |---|---|---|
-| 13:30-14:00 | Lecture I - Introduction | Marc |
-| 14:00-14:30 | Practical I | Marc |
+| 09:00-9:30 | Lecture I - Introduction | Marc |
+| 09:30-10:00 | Practical I | Marc |
 | 14:30-15:00 | Lecture II - The Scheduler | Jon |
 | 15:00-15:15 | Introduction to Practical II | Jing |
 | 15:15-15:30 | Coffee, Tea & Biscuits | |
